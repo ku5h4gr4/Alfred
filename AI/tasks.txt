@@ -1,5 +1,0 @@
-1: brush
-2: take bath
-3: eat food
-4: play games
-5: study
