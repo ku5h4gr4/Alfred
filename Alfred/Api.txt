@@ -1,0 +1,4 @@
+open_ai = "add-your-api"
+wolfram  = "add-your-api"
+weather = "add-your-api"
+news = "add-your-api"
